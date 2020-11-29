@@ -3,13 +3,16 @@ An MVC framework using Python, Kivy and Peewee
 
 ## Getting started
 Install the dependencies
-  pip install dependencies.txt
+
+    pip install dependencies.txt
   
 Run
-  pyhton3 main.py
+
+    pyhton3 main.py
   
 ## Routes
-  routename=App/Controller/ExampleController@method
+
+    routename=App/Controller/ExampleController@method
   
 ## Models
 
