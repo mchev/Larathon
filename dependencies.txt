@@ -1,0 +1,6 @@
+kivy
+kivy_garden.graph
+peewee==3.14.0
+Cython
+pillow==4.2.1
+apscheduler
