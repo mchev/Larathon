@@ -5,6 +5,8 @@ An MVC framework using Python, Kivy and Peewee
 Install the dependencies
 
     pip install dependencies.txt
+    
+Copy .env.example to .env and edit it
   
 Run
 
